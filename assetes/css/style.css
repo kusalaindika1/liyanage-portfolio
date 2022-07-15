@@ -31,9 +31,10 @@ top: 0;
 }
 .navbar ul li a{
     text-decoration: none;
-    color: white;
+    color: rgb(158, 233, 156);
     padding: 8px 25px;
     transition: all .5s ease;
+    font-size: 1.5em;
 }
 .navbar ul li a:hover{
     background-color: brown;
@@ -56,7 +57,7 @@ span{
 }
 
 
-btn{
+.btn{
 	background-color:#f9004d;
 	color: white;
 	text-decoration: none;
